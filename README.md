@@ -1,5 +1,6 @@
 # traitwebs
-This repository contains supplementary tables associated to our study.
+This repository contains supplementary tables associated to our manuscript:
+"A network of biological traits: profiling consumer-resource interactions"
 
 Last Update: Pierre Olivier, 23/08/2022
 
