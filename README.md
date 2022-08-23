@@ -2,6 +2,7 @@
 This repository contains supplementary tables associated to our study.
 
 Last Update: Pierre Olivier, 23/08/2022
+
 Supplementary tables
 
 Table B.1. List of observed consumer-resource trait associations, with their observation and significance in all four habitats (Fucus, Rock, Zostera and Sand). In the presence columns, 0 indicates absence, 1 indicates presence. In the significance columns, NA indicates that the association was not observed in that specific habitat; N.S. corresponds to observed associations that are non-significant; '\*' indicates significance at p-value < 0.05; '\*\*' indicates significance at p-value < 0.01; '\*\*\*' indicates significance at p-value < 0.001.
