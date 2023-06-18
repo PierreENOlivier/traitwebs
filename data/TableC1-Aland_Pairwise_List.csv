@@ -1,0 +1,946 @@
+Prey,Predator,Habitat
+Amphibalanus improvisus,Clupea harengus,Fucus
+Amphibalanus improvisus,Gasterosteus aculeatus,Fucus
+Amphibalanus improvisus,Perca fluviatilis,Fucus
+Amphibalanus improvisus,Platichthys flesus,Fucus
+Amphibalanus improvisus,Praunus inermis,Fucus
+Amphibalanus improvisus,Zoarces viviparus,Fucus
+Calanoida,Clupea harengus,Fucus
+Calanoida,Gasterosteus aculeatus,Fucus
+Calanoida,Gymnocephalus cernua,Fucus
+Calanoida,Mysis relicta,Fucus
+Calanoida,Nerophis ophidion,Fucus
+Calanoida,Perca fluviatilis,Fucus
+Calanoida,Platichthys flesus,Fucus
+Calanoida,Pomatoschistus,Fucus
+Calanoida,Praunus inermis,Fucus
+Calanoida,Sprattus sprattus,Fucus
+Calanoida,Zoarces viviparus,Fucus
+Calliopius laeviusculus,Clupea harengus,Fucus
+Calliopius laeviusculus,Gymnocephalus cernua,Fucus
+Calliopius laeviusculus,Perca fluviatilis,Fucus
+Cerastoderma glaucum,Perca fluviatilis,Fucus
+Cerastoderma glaucum,Platichthys flesus,Fucus
+Cerastoderma glaucum,Pomatoschistus,Fucus
+Chironomidae,Clupea harengus,Fucus
+Chironomidae,Cyanophthalma obscura,Fucus
+Chironomidae,Gasterosteus aculeatus,Fucus
+Chironomidae,Gymnocephalus cernua,Fucus
+Chironomidae,Hydrachnidia,Fucus
+Chironomidae,Myoxocephalus quadricornis,Fucus
+Chironomidae,Perca fluviatilis,Fucus
+Chironomidae,Platichthys flesus,Fucus
+Chironomidae,Pomatoschistus,Fucus
+Chironomidae,Praunus inermis,Fucus
+Chironomidae,Sprattus sprattus,Fucus
+Chironomidae,Taurulus bubalis,Fucus
+Chironomidae,Zoarces viviparus,Fucus
+Clupea harengus,Clupea harengus,Fucus
+Clupea harengus,Myoxocephalus quadricornis,Fucus
+Clupea harengus,Myoxocephalus scorpius,Fucus
+Clupea harengus,Perca fluviatilis,Fucus
+Clupea harengus,Zoarces viviparus,Fucus
+Cyanophthalma obscura,Platichthys flesus,Fucus
+Detritus,Amphibalanus improvisus,Fucus
+Detritus,Calliopius laeviusculus,Fucus
+Detritus,Cerastoderma glaucum,Fucus
+Detritus,Chironomidae,Fucus
+Detritus,Gammarus,Fucus
+Detritus,Harpacticoida,Fucus
+Detritus,Hydrobia,Fucus
+Detritus,Idotea balthica,Fucus
+Detritus,Idotea granulosa,Fucus
+Detritus,Jaera albifrons,Fucus
+Detritus,Limecola balthica,Fucus
+Detritus,Mysis relicta,Fucus
+Detritus,Mytilus edulis,Fucus
+Detritus,Oligochaeta,Fucus
+Detritus,Ostracoda,Fucus
+Detritus,Potamopyrgus antipodarum,Fucus
+Detritus,Praunus inermis,Fucus
+Detritus,Praunus neglectus,Fucus
+Detritus,Radix balthica,Fucus
+Detritus,Theodoxus fluviatilis,Fucus
+Detritus,Zooplankton,Fucus
+Fucus vesiculosus,Idotea balthica,Fucus
+Gammarus,Clupea harengus,Fucus
+Gammarus,Gammarus,Fucus
+Gammarus,Gasterosteus aculeatus,Fucus
+Gammarus,Gymnocephalus cernua,Fucus
+Gammarus,Myoxocephalus quadricornis,Fucus
+Gammarus,Myoxocephalus scorpius,Fucus
+Gammarus,Perca fluviatilis,Fucus
+Gammarus,Platichthys flesus,Fucus
+Gammarus,Pomatoschistus,Fucus
+Gammarus,Taurulus bubalis,Fucus
+Gammarus,Zoarces viviparus,Fucus
+Gasterosteus aculeatus,Clupea harengus,Fucus
+Gasterosteus aculeatus,Myoxocephalus quadricornis,Fucus
+Gasterosteus aculeatus,Myoxocephalus scorpius,Fucus
+Gasterosteus aculeatus,Perca fluviatilis,Fucus
+Gymnocephalus cernua,Myoxocephalus quadricornis,Fucus
+Gymnocephalus cernua,Perca fluviatilis,Fucus
+Harpacticoida,Clupea harengus,Fucus
+Harpacticoida,Gasterosteus aculeatus,Fucus
+Harpacticoida,Gymnocephalus cernua,Fucus
+Harpacticoida,Mysis relicta,Fucus
+Harpacticoida,Perca fluviatilis,Fucus
+Harpacticoida,Platichthys flesus,Fucus
+Harpacticoida,Pomatoschistus,Fucus
+Harpacticoida,Praunus inermis,Fucus
+Harpacticoida,Sprattus sprattus,Fucus
+Hydrachnidia,Gasterosteus aculeatus,Fucus
+Hydrachnidia,Hydrachnidia,Fucus
+Hydrachnidia,Perca fluviatilis,Fucus
+Hydrachnidia,Platichthys flesus,Fucus
+Hydrachnidia,Pomatoschistus,Fucus
+Hydrachnidia,Praunus inermis,Fucus
+Hydrachnidia,Zoarces viviparus,Fucus
+Hydrobia,Gasterosteus aculeatus,Fucus
+Hydrobia,Gymnocephalus cernua,Fucus
+Hydrobia,Myoxocephalus quadricornis,Fucus
+Hydrobia,Myoxocephalus scorpius,Fucus
+Hydrobia,Nerophis ophidion,Fucus
+Hydrobia,Perca fluviatilis,Fucus
+Hydrobia,Platichthys flesus,Fucus
+Hydrobia,Pomatoschistus,Fucus
+Hydrobia,Sprattus sprattus,Fucus
+Hydrobia,Zoarces viviparus,Fucus
+Idotea balthica,Clupea harengus,Fucus
+Idotea balthica,Perca fluviatilis,Fucus
+Idotea balthica,Platichthys flesus,Fucus
+Idotea balthica,Zoarces viviparus,Fucus
+Idotea granulosa,Clupea harengus,Fucus
+Idotea granulosa,Perca fluviatilis,Fucus
+Jaera albifrons,Gasterosteus aculeatus,Fucus
+Jaera albifrons,Gymnocephalus cernua,Fucus
+Jaera albifrons,Myoxocephalus scorpius,Fucus
+Jaera albifrons,Nerophis ophidion,Fucus
+Jaera albifrons,Perca fluviatilis,Fucus
+Jaera albifrons,Platichthys flesus,Fucus
+Jaera albifrons,Pomatoschistus,Fucus
+Jaera albifrons,Praunus inermis,Fucus
+Jaera albifrons,Zoarces viviparus,Fucus
+Limecola balthica,Clupea harengus,Fucus
+Limecola balthica,Gasterosteus aculeatus,Fucus
+Limecola balthica,Perca fluviatilis,Fucus
+Limecola balthica,Platichthys flesus,Fucus
+Limecola balthica,Pomatoschistus,Fucus
+Limecola balthica,Sprattus sprattus,Fucus
+Limecola balthica,Zoarces viviparus,Fucus
+Macroalgae,Calliopius laeviusculus,Fucus
+Macroalgae,Gammarus,Fucus
+Macroalgae,Idotea balthica,Fucus
+Macroalgae,Idotea granulosa,Fucus
+Macroalgae,Jaera albifrons,Fucus
+Macroalgae,Praunus inermis,Fucus
+Macroalgae,Praunus neglectus,Fucus
+Microalgae,Amphibalanus improvisus,Fucus
+Microalgae,Calliopius laeviusculus,Fucus
+Microalgae,Cerastoderma glaucum,Fucus
+Microalgae,Chironomidae,Fucus
+Microalgae,Gammarus,Fucus
+Microalgae,Harpacticoida,Fucus
+Microalgae,Hydrobia,Fucus
+Microalgae,Jaera albifrons,Fucus
+Microalgae,Limecola balthica,Fucus
+Microalgae,Mysis relicta,Fucus
+Microalgae,Mytilus edulis,Fucus
+Microalgae,Oligochaeta,Fucus
+Microalgae,Ostracoda,Fucus
+Microalgae,Potamopyrgus antipodarum,Fucus
+Microalgae,Praunus inermis,Fucus
+Microalgae,Praunus neglectus,Fucus
+Microalgae,Radix balthica,Fucus
+Microalgae,Theodoxus fluviatilis,Fucus
+Myoxocephalus quadricornis,Myoxocephalus quadricornis,Fucus
+Myoxocephalus quadricornis,Perca fluviatilis,Fucus
+Myoxocephalus scorpius,Myoxocephalus quadricornis,Fucus
+Mysis relicta,Perca fluviatilis,Fucus
+Mytilus edulis,Gasterosteus aculeatus,Fucus
+Mytilus edulis,Gymnocephalus cernua,Fucus
+Mytilus edulis,Myoxocephalus quadricornis,Fucus
+Mytilus edulis,Myoxocephalus scorpius,Fucus
+Mytilus edulis,Perca fluviatilis,Fucus
+Mytilus edulis,Platichthys flesus,Fucus
+Mytilus edulis,Pomatoschistus,Fucus
+Mytilus edulis,Zoarces viviparus,Fucus
+Oligochaeta,Chironomidae,Fucus
+Oligochaeta,Cyanophthalma obscura,Fucus
+Oligochaeta,Gasterosteus aculeatus,Fucus
+Oligochaeta,Gymnocephalus cernua,Fucus
+Oligochaeta,Hydrachnidia,Fucus
+Oligochaeta,Perca fluviatilis,Fucus
+Oligochaeta,Platichthys flesus,Fucus
+Oligochaeta,Pomatoschistus,Fucus
+Oligochaeta,Praunus inermis,Fucus
+Ostracoda,Clupea harengus,Fucus
+Ostracoda,Gasterosteus aculeatus,Fucus
+Ostracoda,Gymnocephalus cernua,Fucus
+Ostracoda,Hydrachnidia,Fucus
+Ostracoda,Myoxocephalus quadricornis,Fucus
+Ostracoda,Mysis relicta,Fucus
+Ostracoda,Nerophis ophidion,Fucus
+Ostracoda,Perca fluviatilis,Fucus
+Ostracoda,Platichthys flesus,Fucus
+Ostracoda,Pomatoschistus,Fucus
+Ostracoda,Praunus inermis,Fucus
+Ostracoda,Praunus neglectus,Fucus
+Ostracoda,Zoarces viviparus,Fucus
+Perca fluviatilis,Perca fluviatilis,Fucus
+Phytoplankton,Amphibalanus improvisus,Fucus
+Phytoplankton,Calanoida,Fucus
+Phytoplankton,Calliopius laeviusculus,Fucus
+Phytoplankton,Cerastoderma glaucum,Fucus
+Phytoplankton,Clupea harengus,Fucus
+Phytoplankton,Idotea granulosa,Fucus
+Phytoplankton,Limecola balthica,Fucus
+Phytoplankton,Mytilus edulis,Fucus
+Phytoplankton,Praunus inermis,Fucus
+Phytoplankton,Zooplankton,Fucus
+Platichthys flesus,Perca fluviatilis,Fucus
+Pomatoschistus,Gasterosteus aculeatus,Fucus
+Pomatoschistus,Myoxocephalus quadricornis,Fucus
+Pomatoschistus,Myoxocephalus scorpius,Fucus
+Pomatoschistus,Perca fluviatilis,Fucus
+Pomatoschistus,Zoarces viviparus,Fucus
+Potamopyrgus antipodarum,Perca fluviatilis,Fucus
+Potamopyrgus antipodarum,Platichthys flesus,Fucus
+Potamopyrgus antipodarum,Zoarces viviparus,Fucus
+Praunus inermis,Clupea harengus,Fucus
+Praunus inermis,Perca fluviatilis,Fucus
+Praunus inermis,Taurulus bubalis,Fucus
+Praunus neglectus,Perca fluviatilis,Fucus
+Radix balthica,Gasterosteus aculeatus,Fucus
+Radix balthica,Platichthys flesus,Fucus
+Radix balthica,Pomatoschistus,Fucus
+Sprattus sprattus,Perca fluviatilis,Fucus
+Sprattus sprattus,Sprattus sprattus,Fucus
+Theodoxus fluviatilis,Perca fluviatilis,Fucus
+Theodoxus fluviatilis,Platichthys flesus,Fucus
+Vascular plants,Gammarus,Fucus
+Vascular plants,Idotea balthica,Fucus
+Vascular plants,Idotea granulosa,Fucus
+Zoarces viviparus,Myoxocephalus quadricornis,Fucus
+Zoarces viviparus,Perca fluviatilis,Fucus
+Zoarces viviparus,Taurulus bubalis,Fucus
+Zoarces viviparus,Zoarces viviparus,Fucus
+Zooplankton,Calliopius laeviusculus,Fucus
+Zooplankton,Clupea harengus,Fucus
+Zooplankton,Gasterosteus aculeatus,Fucus
+Zooplankton,Gymnocephalus cernua,Fucus
+Zooplankton,Hydrachnidia,Fucus
+Zooplankton,Myoxocephalus quadricornis,Fucus
+Zooplankton,Mysis relicta,Fucus
+Zooplankton,Nerophis ophidion,Fucus
+Zooplankton,Perca fluviatilis,Fucus
+Zooplankton,Platichthys flesus,Fucus
+Zooplankton,Praunus inermis,Fucus
+Zooplankton,Praunus neglectus,Fucus
+Zooplankton,Sprattus sprattus,Fucus
+Zooplankton,Zooplankton,Fucus
+Ammodytes tobianus,Clupea harengus,Rock
+Ammodytes tobianus,Perca fluviatilis,Rock
+Ammodytes tobianus,Platichthys flesus,Rock
+Amphibalanus improvisus,Clupea harengus,Rock
+Amphibalanus improvisus,Perca fluviatilis,Rock
+Amphibalanus improvisus,Platichthys flesus,Rock
+Amphibalanus improvisus,Zoarces viviparus,Rock
+Calanoida,Ammodytes tobianus,Rock
+Calanoida,Clupea harengus,Rock
+Calanoida,Gymnocephalus cernua,Rock
+Calanoida,Nerophis ophidion,Rock
+Calanoida,Perca fluviatilis,Rock
+Calanoida,Platichthys flesus,Rock
+Calanoida,Rutilus rutilus,Rock
+Calanoida,Zoarces viviparus,Rock
+Calliopius laeviusculus,Clupea harengus,Rock
+Calliopius laeviusculus,Gymnocephalus cernua,Rock
+Calliopius laeviusculus,Perca fluviatilis,Rock
+Cerastoderma glaucum,Perca fluviatilis,Rock
+Cerastoderma glaucum,Platichthys flesus,Rock
+Cerastoderma glaucum,Rutilus rutilus,Rock
+Chironomidae,Ammodytes tobianus,Rock
+Chironomidae,Clupea harengus,Rock
+Chironomidae,Cyanophthalma obscura,Rock
+Chironomidae,Gobius niger,Rock
+Chironomidae,Gymnocephalus cernua,Rock
+Chironomidae,Hediste diversicolor,Rock
+Chironomidae,Hydrachnidia,Rock
+Chironomidae,Perca fluviatilis,Rock
+Chironomidae,Platichthys flesus,Rock
+Chironomidae,Rutilus rutilus,Rock
+Chironomidae,Zoarces viviparus,Rock
+Clupea harengus,Clupea harengus,Rock
+Clupea harengus,Perca fluviatilis,Rock
+Clupea harengus,Zoarces viviparus,Rock
+Corophium volutator,Clupea harengus,Rock
+Corophium volutator,Gymnocephalus cernua,Rock
+Corophium volutator,Hediste diversicolor,Rock
+Corophium volutator,Perca fluviatilis,Rock
+Corophium volutator,Platichthys flesus,Rock
+Corophium volutator,Rutilus rutilus,Rock
+Corophium volutator,Zoarces viviparus,Rock
+Cyanophthalma obscura,Platichthys flesus,Rock
+Cyclopoida,Ammodytes tobianus,Rock
+Cyclopoida,Clupea harengus,Rock
+Cyclopoida,Gymnocephalus cernua,Rock
+Cyclopoida,Perca fluviatilis,Rock
+Cyclopoida,Zoarces viviparus,Rock
+Detritus,Amphibalanus improvisus,Rock
+Detritus,Calliopius laeviusculus,Rock
+Detritus,Cerastoderma glaucum,Rock
+Detritus,Chironomidae,Rock
+Detritus,Corophium volutator,Rock
+Detritus,Cyclopoida,Rock
+Detritus,Gammarus,Rock
+Detritus,Harpacticoida,Rock
+Detritus,Hediste diversicolor,Rock
+Detritus,Hydrobia,Rock
+Detritus,Idotea balthica,Rock
+Detritus,Idotea chelipes,Rock
+Detritus,Jaera albifrons,Rock
+Detritus,Limecola balthica,Rock
+Detritus,Mytilus edulis,Rock
+Detritus,Oligochaeta,Rock
+Detritus,Ostracoda,Rock
+Detritus,Potamopyrgus antipodarum,Rock
+Detritus,Rutilus rutilus,Rock
+Detritus,Theodoxus fluviatilis,Rock
+Detritus,Zooplankton,Rock
+Gammarus,Ammodytes tobianus,Rock
+Gammarus,Clupea harengus,Rock
+Gammarus,Gammarus,Rock
+Gammarus,Gobius niger,Rock
+Gammarus,Gymnocephalus cernua,Rock
+Gammarus,Perca fluviatilis,Rock
+Gammarus,Platichthys flesus,Rock
+Gammarus,Rutilus rutilus,Rock
+Gammarus,Zoarces viviparus,Rock
+Gobius niger,Clupea harengus,Rock
+Gymnocephalus cernua,Perca fluviatilis,Rock
+Harpacticoida,Ammodytes tobianus,Rock
+Harpacticoida,Clupea harengus,Rock
+Harpacticoida,Gobius niger,Rock
+Harpacticoida,Gymnocephalus cernua,Rock
+Harpacticoida,Perca fluviatilis,Rock
+Harpacticoida,Platichthys flesus,Rock
+Harpacticoida,Rutilus rutilus,Rock
+Hediste diversicolor,Ammodytes tobianus,Rock
+Hediste diversicolor,Cyanophthalma obscura,Rock
+Hediste diversicolor,Gobius niger,Rock
+Hediste diversicolor,Gymnocephalus cernua,Rock
+Hediste diversicolor,Hediste diversicolor,Rock
+Hediste diversicolor,Perca fluviatilis,Rock
+Hediste diversicolor,Platichthys flesus,Rock
+Hediste diversicolor,Zoarces viviparus,Rock
+Hydrachnidia,Ammodytes tobianus,Rock
+Hydrachnidia,Gobius niger,Rock
+Hydrachnidia,Hydrachnidia,Rock
+Hydrachnidia,Perca fluviatilis,Rock
+Hydrachnidia,Platichthys flesus,Rock
+Hydrachnidia,Rutilus rutilus,Rock
+Hydrachnidia,Zoarces viviparus,Rock
+Hydrobia,Ammodytes tobianus,Rock
+Hydrobia,Gymnocephalus cernua,Rock
+Hydrobia,Hediste diversicolor,Rock
+Hydrobia,Nerophis ophidion,Rock
+Hydrobia,Perca fluviatilis,Rock
+Hydrobia,Platichthys flesus,Rock
+Hydrobia,Rutilus rutilus,Rock
+Hydrobia,Zoarces viviparus,Rock
+Idotea balthica,Clupea harengus,Rock
+Idotea balthica,Perca fluviatilis,Rock
+Idotea balthica,Platichthys flesus,Rock
+Idotea balthica,Rutilus rutilus,Rock
+Idotea balthica,Zoarces viviparus,Rock
+Idotea chelipes,Clupea harengus,Rock
+Idotea chelipes,Gobius niger,Rock
+Idotea chelipes,Gymnocephalus cernua,Rock
+Idotea chelipes,Perca fluviatilis,Rock
+Idotea chelipes,Platichthys flesus,Rock
+Idotea chelipes,Rutilus rutilus,Rock
+Jaera albifrons,Ammodytes tobianus,Rock
+Jaera albifrons,Gymnocephalus cernua,Rock
+Jaera albifrons,Hediste diversicolor,Rock
+Jaera albifrons,Nerophis ophidion,Rock
+Jaera albifrons,Perca fluviatilis,Rock
+Jaera albifrons,Platichthys flesus,Rock
+Jaera albifrons,Rutilus rutilus,Rock
+Jaera albifrons,Zoarces viviparus,Rock
+Limecola balthica,Ammodytes tobianus,Rock
+Limecola balthica,Clupea harengus,Rock
+Limecola balthica,Gobius niger,Rock
+Limecola balthica,Hediste diversicolor,Rock
+Limecola balthica,Perca fluviatilis,Rock
+Limecola balthica,Platichthys flesus,Rock
+Limecola balthica,Rutilus rutilus,Rock
+Limecola balthica,Zoarces viviparus,Rock
+Macroalgae,Calliopius laeviusculus,Rock
+Macroalgae,Gammarus,Rock
+Macroalgae,Hediste diversicolor,Rock
+Macroalgae,Idotea balthica,Rock
+Macroalgae,Idotea chelipes,Rock
+Macroalgae,Jaera albifrons,Rock
+Microalgae,Amphibalanus improvisus,Rock
+Microalgae,Calliopius laeviusculus,Rock
+Microalgae,Cerastoderma glaucum,Rock
+Microalgae,Chironomidae,Rock
+Microalgae,Corophium volutator,Rock
+Microalgae,Cyclopoida,Rock
+Microalgae,Gammarus,Rock
+Microalgae,Harpacticoida,Rock
+Microalgae,Hediste diversicolor,Rock
+Microalgae,Hydrobia,Rock
+Microalgae,Idotea chelipes,Rock
+Microalgae,Jaera albifrons,Rock
+Microalgae,Limecola balthica,Rock
+Microalgae,Mytilus edulis,Rock
+Microalgae,Oligochaeta,Rock
+Microalgae,Ostracoda,Rock
+Microalgae,Potamopyrgus antipodarum,Rock
+Microalgae,Theodoxus fluviatilis,Rock
+Mytilus edulis,Ammodytes tobianus,Rock
+Mytilus edulis,Gymnocephalus cernua,Rock
+Mytilus edulis,Perca fluviatilis,Rock
+Mytilus edulis,Platichthys flesus,Rock
+Mytilus edulis,Rutilus rutilus,Rock
+Mytilus edulis,Zoarces viviparus,Rock
+Oligochaeta,Ammodytes tobianus,Rock
+Oligochaeta,Chironomidae,Rock
+Oligochaeta,Cyanophthalma obscura,Rock
+Oligochaeta,Gobius niger,Rock
+Oligochaeta,Gymnocephalus cernua,Rock
+Oligochaeta,Hediste diversicolor,Rock
+Oligochaeta,Hydrachnidia,Rock
+Oligochaeta,Perca fluviatilis,Rock
+Oligochaeta,Platichthys flesus,Rock
+Ostracoda,Ammodytes tobianus,Rock
+Ostracoda,Clupea harengus,Rock
+Ostracoda,Gobius niger,Rock
+Ostracoda,Gymnocephalus cernua,Rock
+Ostracoda,Hydrachnidia,Rock
+Ostracoda,Nerophis ophidion,Rock
+Ostracoda,Perca fluviatilis,Rock
+Ostracoda,Platichthys flesus,Rock
+Ostracoda,Rutilus rutilus,Rock
+Ostracoda,Zoarces viviparus,Rock
+Perca fluviatilis,Perca fluviatilis,Rock
+Phytoplankton,Ammodytes tobianus,Rock
+Phytoplankton,Amphibalanus improvisus,Rock
+Phytoplankton,Calanoida,Rock
+Phytoplankton,Calliopius laeviusculus,Rock
+Phytoplankton,Cerastoderma glaucum,Rock
+Phytoplankton,Clupea harengus,Rock
+Phytoplankton,Corophium volutator,Rock
+Phytoplankton,Hediste diversicolor,Rock
+Phytoplankton,Idotea chelipes,Rock
+Phytoplankton,Limecola balthica,Rock
+Phytoplankton,Mytilus edulis,Rock
+Phytoplankton,Zooplankton,Rock
+Platichthys flesus,Perca fluviatilis,Rock
+Potamopyrgus antipodarum,Perca fluviatilis,Rock
+Potamopyrgus antipodarum,Platichthys flesus,Rock
+Potamopyrgus antipodarum,Rutilus rutilus,Rock
+Potamopyrgus antipodarum,Zoarces viviparus,Rock
+Rutilus rutilus,Perca fluviatilis,Rock
+Rutilus rutilus,Platichthys flesus,Rock
+Theodoxus fluviatilis,Ammodytes tobianus,Rock
+Theodoxus fluviatilis,Perca fluviatilis,Rock
+Theodoxus fluviatilis,Platichthys flesus,Rock
+Theodoxus fluviatilis,Rutilus rutilus,Rock
+Zoarces viviparus,Perca fluviatilis,Rock
+Zoarces viviparus,Zoarces viviparus,Rock
+Zooplankton,Ammodytes tobianus,Rock
+Zooplankton,Calliopius laeviusculus,Rock
+Zooplankton,Clupea harengus,Rock
+Zooplankton,Cyclopoida,Rock
+Zooplankton,Gobius niger,Rock
+Zooplankton,Gymnocephalus cernua,Rock
+Zooplankton,Hydrachnidia,Rock
+Zooplankton,Nerophis ophidion,Rock
+Zooplankton,Perca fluviatilis,Rock
+Zooplankton,Platichthys flesus,Rock
+Zooplankton,Rutilus rutilus,Rock
+Zooplankton,Zooplankton,Rock
+Ammodytes tobianus,Clupea harengus,Zostera
+Ammodytes tobianus,Myoxocephalus quadricornis,Zostera
+Ammodytes tobianus,Osmerus eperlanus,Zostera
+Ammodytes tobianus,Perca fluviatilis,Zostera
+Ammodytes tobianus,Platichthys flesus,Zostera
+Ammodytes tobianus,Scophthalmus maximus,Zostera
+Bathyporeia pilosa,Ammodytes tobianus,Zostera
+Bathyporeia pilosa,Clupea harengus,Zostera
+Bathyporeia pilosa,Cyanophthalma obscura,Zostera
+Bathyporeia pilosa,Gymnocephalus cernua,Zostera
+Bathyporeia pilosa,Hediste diversicolor,Zostera
+Bathyporeia pilosa,Platichthys flesus,Zostera
+Bathyporeia pilosa,Saduria entomon,Zostera
+Bathyporeia pilosa,Scophthalmus maximus,Zostera
+Cerastoderma glaucum,Perca fluviatilis,Zostera
+Cerastoderma glaucum,Platichthys flesus,Zostera
+Chironomidae,Ammodytes tobianus,Zostera
+Chironomidae,Clupea harengus,Zostera
+Chironomidae,Coregonus,Zostera
+Chironomidae,Cyanophthalma obscura,Zostera
+Chironomidae,Gymnocephalus cernua,Zostera
+Chironomidae,Hediste diversicolor,Zostera
+Chironomidae,Hydrachnidia,Zostera
+Chironomidae,Myoxocephalus quadricornis,Zostera
+Chironomidae,Osmerus eperlanus,Zostera
+Chironomidae,Perca fluviatilis,Zostera
+Chironomidae,Platichthys flesus,Zostera
+Chironomidae,Saduria entomon,Zostera
+Chironomidae,Scophthalmus maximus,Zostera
+Chironomidae,Sprattus sprattus,Zostera
+Chironomidae,Zoarces viviparus,Zostera
+Clupea harengus,Clupea harengus,Zostera
+Clupea harengus,Hyperoplus lanceolatus,Zostera
+Clupea harengus,Myoxocephalus quadricornis,Zostera
+Clupea harengus,Myoxocephalus scorpius,Zostera
+Clupea harengus,Osmerus eperlanus,Zostera
+Clupea harengus,Perca fluviatilis,Zostera
+Clupea harengus,Zoarces viviparus,Zostera
+Coregonus,Myoxocephalus quadricornis,Zostera
+Coregonus,Perca fluviatilis,Zostera
+Corophium volutator,Clupea harengus,Zostera
+Corophium volutator,Gymnocephalus cernua,Zostera
+Corophium volutator,Hediste diversicolor,Zostera
+Corophium volutator,Myoxocephalus quadricornis,Zostera
+Corophium volutator,Myoxocephalus scorpius,Zostera
+Corophium volutator,Osmerus eperlanus,Zostera
+Corophium volutator,Perca fluviatilis,Zostera
+Corophium volutator,Platichthys flesus,Zostera
+Corophium volutator,Saduria entomon,Zostera
+Corophium volutator,Zoarces viviparus,Zostera
+Cyanophthalma obscura,Platichthys flesus,Zostera
+Detritus,Bathyporeia pilosa,Zostera
+Detritus,Cerastoderma glaucum,Zostera
+Detritus,Chironomidae,Zostera
+Detritus,Corophium volutator,Zostera
+Detritus,Gammarus,Zostera
+Detritus,Harpacticoida,Zostera
+Detritus,Hediste diversicolor,Zostera
+Detritus,Hydrobia,Zostera
+Detritus,Idotea balthica,Zostera
+Detritus,Idotea chelipes,Zostera
+Detritus,Idotea granulosa,Zostera
+Detritus,Jaera albifrons,Zostera
+Detritus,Limecola balthica,Zostera
+Detritus,Manayunkia aestuarina,Zostera
+Detritus,Marenzelleria,Zostera
+Detritus,Mya arenaria,Zostera
+Detritus,Mytilus edulis,Zostera
+Detritus,Oligochaeta,Zostera
+Detritus,Ostracoda,Zostera
+Detritus,Potamopyrgus antipodarum,Zostera
+Detritus,Pygospio elegans,Zostera
+Detritus,Radix balthica,Zostera
+Detritus,Theodoxus fluviatilis,Zostera
+Detritus,Zooplankton,Zostera
+Gammarus,Ammodytes tobianus,Zostera
+Gammarus,Clupea harengus,Zostera
+Gammarus,Coregonus,Zostera
+Gammarus,Gammarus,Zostera
+Gammarus,Gymnocephalus cernua,Zostera
+Gammarus,Myoxocephalus quadricornis,Zostera
+Gammarus,Myoxocephalus scorpius,Zostera
+Gammarus,Osmerus eperlanus,Zostera
+Gammarus,Perca fluviatilis,Zostera
+Gammarus,Platichthys flesus,Zostera
+Gammarus,Saduria entomon,Zostera
+Gammarus,Scophthalmus maximus,Zostera
+Gammarus,Zoarces viviparus,Zostera
+Gymnocephalus cernua,Myoxocephalus quadricornis,Zostera
+Gymnocephalus cernua,Perca fluviatilis,Zostera
+Harpacticoida,Ammodytes tobianus,Zostera
+Harpacticoida,Clupea harengus,Zostera
+Harpacticoida,Gymnocephalus cernua,Zostera
+Harpacticoida,Perca fluviatilis,Zostera
+Harpacticoida,Platichthys flesus,Zostera
+Harpacticoida,Scophthalmus maximus,Zostera
+Harpacticoida,Sprattus sprattus,Zostera
+Hediste diversicolor,Ammodytes tobianus,Zostera
+Hediste diversicolor,Cyanophthalma obscura,Zostera
+Hediste diversicolor,Gymnocephalus cernua,Zostera
+Hediste diversicolor,Hediste diversicolor,Zostera
+Hediste diversicolor,Osmerus eperlanus,Zostera
+Hediste diversicolor,Perca fluviatilis,Zostera
+Hediste diversicolor,Platichthys flesus,Zostera
+Hediste diversicolor,Saduria entomon,Zostera
+Hediste diversicolor,Scophthalmus maximus,Zostera
+Hediste diversicolor,Zoarces viviparus,Zostera
+Hydrachnidia,Ammodytes tobianus,Zostera
+Hydrachnidia,Coregonus,Zostera
+Hydrachnidia,Hydrachnidia,Zostera
+Hydrachnidia,Perca fluviatilis,Zostera
+Hydrachnidia,Platichthys flesus,Zostera
+Hydrachnidia,Zoarces viviparus,Zostera
+Hydrobia,Ammodytes tobianus,Zostera
+Hydrobia,Gymnocephalus cernua,Zostera
+Hydrobia,Hediste diversicolor,Zostera
+Hydrobia,Myoxocephalus quadricornis,Zostera
+Hydrobia,Myoxocephalus scorpius,Zostera
+Hydrobia,Nerophis ophidion,Zostera
+Hydrobia,Osmerus eperlanus,Zostera
+Hydrobia,Perca fluviatilis,Zostera
+Hydrobia,Platichthys flesus,Zostera
+Hydrobia,Sprattus sprattus,Zostera
+Hydrobia,Zoarces viviparus,Zostera
+Hyperoplus lanceolatus,Hyperoplus lanceolatus,Zostera
+Idotea balthica,Clupea harengus,Zostera
+Idotea balthica,Perca fluviatilis,Zostera
+Idotea balthica,Platichthys flesus,Zostera
+Idotea balthica,Zoarces viviparus,Zostera
+Idotea chelipes,Clupea harengus,Zostera
+Idotea chelipes,Coregonus,Zostera
+Idotea chelipes,Gymnocephalus cernua,Zostera
+Idotea chelipes,Perca fluviatilis,Zostera
+Idotea chelipes,Platichthys flesus,Zostera
+Idotea granulosa,Clupea harengus,Zostera
+Idotea granulosa,Perca fluviatilis,Zostera
+Jaera albifrons,Ammodytes tobianus,Zostera
+Jaera albifrons,Gymnocephalus cernua,Zostera
+Jaera albifrons,Hediste diversicolor,Zostera
+Jaera albifrons,Myoxocephalus scorpius,Zostera
+Jaera albifrons,Nerophis ophidion,Zostera
+Jaera albifrons,Perca fluviatilis,Zostera
+Jaera albifrons,Platichthys flesus,Zostera
+Jaera albifrons,Scophthalmus maximus,Zostera
+Jaera albifrons,Zoarces viviparus,Zostera
+Limecola balthica,Ammodytes tobianus,Zostera
+Limecola balthica,Clupea harengus,Zostera
+Limecola balthica,Hediste diversicolor,Zostera
+Limecola balthica,Osmerus eperlanus,Zostera
+Limecola balthica,Perca fluviatilis,Zostera
+Limecola balthica,Platichthys flesus,Zostera
+Limecola balthica,Saduria entomon,Zostera
+Limecola balthica,Scophthalmus maximus,Zostera
+Limecola balthica,Sprattus sprattus,Zostera
+Limecola balthica,Zoarces viviparus,Zostera
+Macroalgae,Gammarus,Zostera
+Macroalgae,Hediste diversicolor,Zostera
+Macroalgae,Idotea balthica,Zostera
+Macroalgae,Idotea chelipes,Zostera
+Macroalgae,Idotea granulosa,Zostera
+Macroalgae,Jaera albifrons,Zostera
+Manayunkia aestuarina,Platichthys flesus,Zostera
+Manayunkia aestuarina,Saduria entomon,Zostera
+Marenzelleria,Hediste diversicolor,Zostera
+Marenzelleria,Platichthys flesus,Zostera
+Microalgae,Bathyporeia pilosa,Zostera
+Microalgae,Cerastoderma glaucum,Zostera
+Microalgae,Chironomidae,Zostera
+Microalgae,Corophium volutator,Zostera
+Microalgae,Gammarus,Zostera
+Microalgae,Harpacticoida,Zostera
+Microalgae,Hediste diversicolor,Zostera
+Microalgae,Hydrobia,Zostera
+Microalgae,Idotea chelipes,Zostera
+Microalgae,Jaera albifrons,Zostera
+Microalgae,Limecola balthica,Zostera
+Microalgae,Manayunkia aestuarina,Zostera
+Microalgae,Marenzelleria,Zostera
+Microalgae,Mya arenaria,Zostera
+Microalgae,Mytilus edulis,Zostera
+Microalgae,Oligochaeta,Zostera
+Microalgae,Ostracoda,Zostera
+Microalgae,Potamopyrgus antipodarum,Zostera
+Microalgae,Pygospio elegans,Zostera
+Microalgae,Radix balthica,Zostera
+Microalgae,Theodoxus fluviatilis,Zostera
+Mya arenaria,Myoxocephalus quadricornis,Zostera
+Mya arenaria,Perca fluviatilis,Zostera
+Mya arenaria,Platichthys flesus,Zostera
+Myoxocephalus quadricornis,Myoxocephalus quadricornis,Zostera
+Myoxocephalus quadricornis,Perca fluviatilis,Zostera
+Myoxocephalus scorpius,Myoxocephalus quadricornis,Zostera
+Mytilus edulis,Ammodytes tobianus,Zostera
+Mytilus edulis,Coregonus,Zostera
+Mytilus edulis,Gymnocephalus cernua,Zostera
+Mytilus edulis,Hyperoplus lanceolatus,Zostera
+Mytilus edulis,Myoxocephalus quadricornis,Zostera
+Mytilus edulis,Myoxocephalus scorpius,Zostera
+Mytilus edulis,Perca fluviatilis,Zostera
+Mytilus edulis,Platichthys flesus,Zostera
+Mytilus edulis,Scophthalmus maximus,Zostera
+Mytilus edulis,Zoarces viviparus,Zostera
+Nerophis ophidion,Scophthalmus maximus,Zostera
+Oligochaeta,Ammodytes tobianus,Zostera
+Oligochaeta,Chironomidae,Zostera
+Oligochaeta,Cyanophthalma obscura,Zostera
+Oligochaeta,Gymnocephalus cernua,Zostera
+Oligochaeta,Hediste diversicolor,Zostera
+Oligochaeta,Hydrachnidia,Zostera
+Oligochaeta,Perca fluviatilis,Zostera
+Oligochaeta,Platichthys flesus,Zostera
+Oligochaeta,Saduria entomon,Zostera
+Oligochaeta,Scophthalmus maximus,Zostera
+Osmerus eperlanus,Myoxocephalus quadricornis,Zostera
+Osmerus eperlanus,Osmerus eperlanus,Zostera
+Osmerus eperlanus,Perca fluviatilis,Zostera
+Osmerus eperlanus,Zoarces viviparus,Zostera
+Ostracoda,Ammodytes tobianus,Zostera
+Ostracoda,Clupea harengus,Zostera
+Ostracoda,Gymnocephalus cernua,Zostera
+Ostracoda,Hydrachnidia,Zostera
+Ostracoda,Myoxocephalus quadricornis,Zostera
+Ostracoda,Nerophis ophidion,Zostera
+Ostracoda,Perca fluviatilis,Zostera
+Ostracoda,Platichthys flesus,Zostera
+Ostracoda,Saduria entomon,Zostera
+Ostracoda,Zoarces viviparus,Zostera
+Perca fluviatilis,Perca fluviatilis,Zostera
+Phytoplankton,Ammodytes tobianus,Zostera
+Phytoplankton,Bathyporeia pilosa,Zostera
+Phytoplankton,Cerastoderma glaucum,Zostera
+Phytoplankton,Clupea harengus,Zostera
+Phytoplankton,Corophium volutator,Zostera
+Phytoplankton,Hediste diversicolor,Zostera
+Phytoplankton,Idotea chelipes,Zostera
+Phytoplankton,Idotea granulosa,Zostera
+Phytoplankton,Limecola balthica,Zostera
+Phytoplankton,Manayunkia aestuarina,Zostera
+Phytoplankton,Marenzelleria,Zostera
+Phytoplankton,Mya arenaria,Zostera
+Phytoplankton,Mytilus edulis,Zostera
+Phytoplankton,Pygospio elegans,Zostera
+Phytoplankton,Zooplankton,Zostera
+Platichthys flesus,Perca fluviatilis,Zostera
+Potamopyrgus antipodarum,Perca fluviatilis,Zostera
+Potamopyrgus antipodarum,Platichthys flesus,Zostera
+Potamopyrgus antipodarum,Zoarces viviparus,Zostera
+Pygospio elegans,Ammodytes tobianus,Zostera
+Pygospio elegans,Cyanophthalma obscura,Zostera
+Pygospio elegans,Perca fluviatilis,Zostera
+Pygospio elegans,Zoarces viviparus,Zostera
+Radix balthica,Ammodytes tobianus,Zostera
+Radix balthica,Platichthys flesus,Zostera
+Saduria entomon,Myoxocephalus quadricornis,Zostera
+Saduria entomon,Myoxocephalus scorpius,Zostera
+Saduria entomon,Osmerus eperlanus,Zostera
+Saduria entomon,Perca fluviatilis,Zostera
+Saduria entomon,Platichthys flesus,Zostera
+Saduria entomon,Saduria entomon,Zostera
+Saduria entomon,Zoarces viviparus,Zostera
+Sprattus sprattus,Hyperoplus lanceolatus,Zostera
+Sprattus sprattus,Perca fluviatilis,Zostera
+Sprattus sprattus,Scophthalmus maximus,Zostera
+Sprattus sprattus,Sprattus sprattus,Zostera
+Theodoxus fluviatilis,Ammodytes tobianus,Zostera
+Theodoxus fluviatilis,Perca fluviatilis,Zostera
+Theodoxus fluviatilis,Platichthys flesus,Zostera
+Vascular plants,Gammarus,Zostera
+Vascular plants,Hediste diversicolor,Zostera
+Vascular plants,Idotea balthica,Zostera
+Vascular plants,Idotea chelipes,Zostera
+Vascular plants,Idotea granulosa,Zostera
+Zoarces viviparus,Myoxocephalus quadricornis,Zostera
+Zoarces viviparus,Perca fluviatilis,Zostera
+Zoarces viviparus,Zoarces viviparus,Zostera
+Zooplankton,Ammodytes tobianus,Zostera
+Zooplankton,Clupea harengus,Zostera
+Zooplankton,Coregonus,Zostera
+Zooplankton,Gymnocephalus cernua,Zostera
+Zooplankton,Hydrachnidia,Zostera
+Zooplankton,Hyperoplus lanceolatus,Zostera
+Zooplankton,Myoxocephalus quadricornis,Zostera
+Zooplankton,Nerophis ophidion,Zostera
+Zooplankton,Osmerus eperlanus,Zostera
+Zooplankton,Perca fluviatilis,Zostera
+Zooplankton,Platichthys flesus,Zostera
+Zooplankton,Saduria entomon,Zostera
+Zooplankton,Scophthalmus maximus,Zostera
+Zooplankton,Sprattus sprattus,Zostera
+Zooplankton,Zooplankton,Zostera
+Zostera marina,Idotea balthica,Zostera
+Zostera marina,Idotea chelipes,Zostera
+Ammodytes tobianus,Clupea harengus,Sand
+Ammodytes tobianus,Perca fluviatilis,Sand
+Ammodytes tobianus,Platichthys flesus,Sand
+Ammodytes tobianus,Scophthalmus maximus,Sand
+Amphibalanus improvisus,Clupea harengus,Sand
+Amphibalanus improvisus,Perca fluviatilis,Sand
+Amphibalanus improvisus,Platichthys flesus,Sand
+Bathyporeia pilosa,Ammodytes tobianus,Sand
+Bathyporeia pilosa,Clupea harengus,Sand
+Bathyporeia pilosa,Cyanophthalma obscura,Sand
+Bathyporeia pilosa,Gymnocephalus cernua,Sand
+Bathyporeia pilosa,Hediste diversicolor,Sand
+Bathyporeia pilosa,Platichthys flesus,Sand
+Bathyporeia pilosa,Scophthalmus maximus,Sand
+Calanoida,Ammodytes tobianus,Sand
+Calanoida,Clupea harengus,Sand
+Calanoida,Gymnocephalus cernua,Sand
+Calanoida,Nerophis ophidion,Sand
+Calanoida,Perca fluviatilis,Sand
+Calanoida,Platichthys flesus,Sand
+Calanoida,Rutilus rutilus,Sand
+Calanoida,Scophthalmus maximus,Sand
+Calanoida,Sprattus sprattus,Sand
+Cerastoderma glaucum,Perca fluviatilis,Sand
+Cerastoderma glaucum,Platichthys flesus,Sand
+Cerastoderma glaucum,Rutilus rutilus,Sand
+Clupea harengus,Clupea harengus,Sand
+Clupea harengus,Hyperoplus lanceolatus,Sand
+Clupea harengus,Perca fluviatilis,Sand
+Cyanophthalma obscura,Platichthys flesus,Sand
+Cyclopoida,Ammodytes tobianus,Sand
+Cyclopoida,Clupea harengus,Sand
+Cyclopoida,Gymnocephalus cernua,Sand
+Cyclopoida,Perca fluviatilis,Sand
+Cyclopoida,Sprattus sprattus,Sand
+Detritus,Amphibalanus improvisus,Sand
+Detritus,Bathyporeia pilosa,Sand
+Detritus,Cerastoderma glaucum,Sand
+Detritus,Cyclopoida,Sand
+Detritus,Gammarus,Sand
+Detritus,Harpacticoida,Sand
+Detritus,Hediste diversicolor,Sand
+Detritus,Hydrobia,Sand
+Detritus,Idotea balthica,Sand
+Detritus,Jaera albifrons,Sand
+Detritus,Limecola balthica,Sand
+Detritus,Marenzelleria,Sand
+Detritus,Mya arenaria,Sand
+Detritus,Mytilus edulis,Sand
+Detritus,Oligochaeta,Sand
+Detritus,Potamopyrgus antipodarum,Sand
+Detritus,Pygospio elegans,Sand
+Detritus,Rutilus rutilus,Sand
+Detritus,Zooplankton,Sand
+Gammarus,Ammodytes tobianus,Sand
+Gammarus,Clupea harengus,Sand
+Gammarus,Gammarus,Sand
+Gammarus,Gobius niger,Sand
+Gammarus,Gymnocephalus cernua,Sand
+Gammarus,Perca fluviatilis,Sand
+Gammarus,Platichthys flesus,Sand
+Gammarus,Rutilus rutilus,Sand
+Gammarus,Scophthalmus maximus,Sand
+Gobius niger,Clupea harengus,Sand
+Gymnocephalus cernua,Perca fluviatilis,Sand
+Harpacticoida,Ammodytes tobianus,Sand
+Harpacticoida,Clupea harengus,Sand
+Harpacticoida,Gobius niger,Sand
+Harpacticoida,Gymnocephalus cernua,Sand
+Harpacticoida,Perca fluviatilis,Sand
+Harpacticoida,Platichthys flesus,Sand
+Harpacticoida,Rutilus rutilus,Sand
+Harpacticoida,Scophthalmus maximus,Sand
+Harpacticoida,Sprattus sprattus,Sand
+Hediste diversicolor,Ammodytes tobianus,Sand
+Hediste diversicolor,Cyanophthalma obscura,Sand
+Hediste diversicolor,Gobius niger,Sand
+Hediste diversicolor,Gymnocephalus cernua,Sand
+Hediste diversicolor,Hediste diversicolor,Sand
+Hediste diversicolor,Perca fluviatilis,Sand
+Hediste diversicolor,Platichthys flesus,Sand
+Hediste diversicolor,Scophthalmus maximus,Sand
+Hydrobia,Ammodytes tobianus,Sand
+Hydrobia,Gymnocephalus cernua,Sand
+Hydrobia,Hediste diversicolor,Sand
+Hydrobia,Nerophis ophidion,Sand
+Hydrobia,Perca fluviatilis,Sand
+Hydrobia,Platichthys flesus,Sand
+Hydrobia,Rutilus rutilus,Sand
+Hydrobia,Sprattus sprattus,Sand
+Hyperoplus lanceolatus,Hyperoplus lanceolatus,Sand
+Idotea balthica,Clupea harengus,Sand
+Idotea balthica,Perca fluviatilis,Sand
+Idotea balthica,Platichthys flesus,Sand
+Idotea balthica,Rutilus rutilus,Sand
+Jaera albifrons,Ammodytes tobianus,Sand
+Jaera albifrons,Gymnocephalus cernua,Sand
+Jaera albifrons,Hediste diversicolor,Sand
+Jaera albifrons,Nerophis ophidion,Sand
+Jaera albifrons,Perca fluviatilis,Sand
+Jaera albifrons,Platichthys flesus,Sand
+Jaera albifrons,Rutilus rutilus,Sand
+Jaera albifrons,Scophthalmus maximus,Sand
+Limecola balthica,Ammodytes tobianus,Sand
+Limecola balthica,Clupea harengus,Sand
+Limecola balthica,Gobius niger,Sand
+Limecola balthica,Hediste diversicolor,Sand
+Limecola balthica,Perca fluviatilis,Sand
+Limecola balthica,Platichthys flesus,Sand
+Limecola balthica,Rutilus rutilus,Sand
+Limecola balthica,Scophthalmus maximus,Sand
+Limecola balthica,Sprattus sprattus,Sand
+Marenzelleria,Gobius niger,Sand
+Marenzelleria,Hediste diversicolor,Sand
+Marenzelleria,Platichthys flesus,Sand
+Microalgae,Amphibalanus improvisus,Sand
+Microalgae,Bathyporeia pilosa,Sand
+Microalgae,Cerastoderma glaucum,Sand
+Microalgae,Cyclopoida,Sand
+Microalgae,Gammarus,Sand
+Microalgae,Harpacticoida,Sand
+Microalgae,Hediste diversicolor,Sand
+Microalgae,Hydrobia,Sand
+Microalgae,Jaera albifrons,Sand
+Microalgae,Limecola balthica,Sand
+Microalgae,Marenzelleria,Sand
+Microalgae,Mya arenaria,Sand
+Microalgae,Mytilus edulis,Sand
+Microalgae,Oligochaeta,Sand
+Microalgae,Potamopyrgus antipodarum,Sand
+Microalgae,Pygospio elegans,Sand
+Mya arenaria,Perca fluviatilis,Sand
+Mya arenaria,Platichthys flesus,Sand
+Mytilus edulis,Ammodytes tobianus,Sand
+Mytilus edulis,Gymnocephalus cernua,Sand
+Mytilus edulis,Hyperoplus lanceolatus,Sand
+Mytilus edulis,Perca fluviatilis,Sand
+Mytilus edulis,Platichthys flesus,Sand
+Mytilus edulis,Rutilus rutilus,Sand
+Mytilus edulis,Scophthalmus maximus,Sand
+Nerophis ophidion,Scophthalmus maximus,Sand
+Oligochaeta,Ammodytes tobianus,Sand
+Oligochaeta,Cyanophthalma obscura,Sand
+Oligochaeta,Gobius niger,Sand
+Oligochaeta,Gymnocephalus cernua,Sand
+Oligochaeta,Hediste diversicolor,Sand
+Oligochaeta,Perca fluviatilis,Sand
+Oligochaeta,Platichthys flesus,Sand
+Oligochaeta,Scophthalmus maximus,Sand
+Perca fluviatilis,Perca fluviatilis,Sand
+Phytoplankton,Ammodytes tobianus,Sand
+Phytoplankton,Amphibalanus improvisus,Sand
+Phytoplankton,Bathyporeia pilosa,Sand
+Phytoplankton,Calanoida,Sand
+Phytoplankton,Cerastoderma glaucum,Sand
+Phytoplankton,Clupea harengus,Sand
+Phytoplankton,Hediste diversicolor,Sand
+Phytoplankton,Limecola balthica,Sand
+Phytoplankton,Marenzelleria,Sand
+Phytoplankton,Mya arenaria,Sand
+Phytoplankton,Mytilus edulis,Sand
+Phytoplankton,Pygospio elegans,Sand
+Phytoplankton,Zooplankton,Sand
+Platichthys flesus,Perca fluviatilis,Sand
+Potamopyrgus antipodarum,Perca fluviatilis,Sand
+Potamopyrgus antipodarum,Platichthys flesus,Sand
+Potamopyrgus antipodarum,Rutilus rutilus,Sand
+Pygospio elegans,Ammodytes tobianus,Sand
+Pygospio elegans,Cyanophthalma obscura,Sand
+Pygospio elegans,Perca fluviatilis,Sand
+Rutilus rutilus,Perca fluviatilis,Sand
+Rutilus rutilus,Platichthys flesus,Sand
+Sprattus sprattus,Hyperoplus lanceolatus,Sand
+Sprattus sprattus,Perca fluviatilis,Sand
+Sprattus sprattus,Scophthalmus maximus,Sand
+Sprattus sprattus,Sprattus sprattus,Sand
+Zooplankton,Ammodytes tobianus,Sand
+Zooplankton,Clupea harengus,Sand
+Zooplankton,Cyclopoida,Sand
+Zooplankton,Gobius niger,Sand
+Zooplankton,Gymnocephalus cernua,Sand
+Zooplankton,Hyperoplus lanceolatus,Sand
+Zooplankton,Nerophis ophidion,Sand
+Zooplankton,Perca fluviatilis,Sand
+Zooplankton,Platichthys flesus,Sand
+Zooplankton,Rutilus rutilus,Sand
+Zooplankton,Scophthalmus maximus,Sand
+Zooplankton,Sprattus sprattus,Sand
+Zooplankton,Zooplankton,Sand
